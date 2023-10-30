@@ -1,0 +1,31 @@
+json
+{
+  "name": "mealprice_landingpage",
+  "version": "1.0.0",
+  "description": "Landing page for MealPrice app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1", 
+    "start": "react-scripts start"
+  },
+  "repository": {
+    "type": "git",  
+    "url": "git+https://github.com/ananas122/mealprice_landingpage.git"
+  },
+  "keywords": [
+    "react",
+    "landing",
+    "page"
+  ],
+  "author": "sam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ananas122/mealprice_landingpage/issues"
+  },
+  "homepage": "https://github.com/ananas122/mealprice_landingpage#readme"
+},
+"dependencies": {
+  "react": "^18.2.0",
+  "react-dom": "^18.2.0" 
+}
+
